@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<nodes>
+  <article>
+    <url>https://proteomics.cancer.gov/news_and_announcements/precisionfda-nci-cptac-multi-omics-challenge-updates</url>
+    <date>&lt;span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-10-23T00:00:00-04:00"&gt;October 23, 2018&lt;/span&gt;</date>
+    <title>PrecisionFDA NCI-CPTAC Multi-Omics Challenge Updates</title>
+    <summary>&lt;p&gt;The security of precisionFDA users’ personal information and data is of critical importance. To strengthen the safeguards already in place, precisionFDA will be introducing several changes to achieve compliance with the FedRAMP and FISMA Moderate security standards. These changes will take...</summary>
+  </article>
+  <article>
+    <url>https://proteomics.cancer.gov/news_and_announcements/cptac-releases-ucec-ccrcc-discovery-data-and-other-study-datasets</url>
+    <date>&lt;span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-10-16T00:00:00-04:00"&gt;October 16, 2018&lt;/span&gt;</date>
+    <title>CPTAC Releases UCEC, ccRCC Discovery Data and Other Study Datasets</title>
+    <summary>&lt;p&gt;The Clinical Proteomic Tumor Analysis Consortium (CPTAC) is releasing the latest proteomic discovery datasets for Uterine Corpus Endometrial Carcinoma (UCEC) and Clear Cell Renal Cell Carcinoma (ccRCC).&lt;/p&gt;
+&lt;p&gt;CPTAC has previously demonstrated how proteogenomics reveals new insights into cancer...</summary>
+  </article>
+  <article>
+    <url>https://proteomics.cancer.gov/news_and_announcements/cptac-develops-fit-purpose-immuno-mrm-assay-fancd2-protein-modification</url>
+    <date>&lt;span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-10-09T00:00:00-04:00"&gt;October 9, 2018&lt;/span&gt;</date>
+    <title>CPTAC Develops Fit-for-Purpose Immuno-MRM Assay for FANCD2 Protein Modification Involved in DNA Damage</title>
+    <summary>&lt;p&gt;&lt;a href="https://www.cancer.gov/publications/dictionaries/cancer-terms/def/fanconi-anemia"&gt;Fanconi anemia&lt;/a&gt; (FA) is a rare inherited disorder characterized by progressive bone marrow failure and an increased risk of developing certain types of cancer. The FA pathway consists of a network of 21...</summary>
+  </article>
+  <article>
+    <url>https://proteomics.cancer.gov/news_and_announcements/cancer-has-no-borders-%E2%80%93-nci-video-release-highlights-international-cancer</url>
+    <date>&lt;span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-10-01T00:00:00-04:00"&gt;October 1, 2018&lt;/span&gt;</date>
+    <title>Cancer Has No Borders – NCI Video Release Highlights the International Cancer Proteogenome Consortium</title>
+    <summary>&lt;p&gt;The Office of Cancer Clinical Proteomics Research of the National Cancer Institute (NCI), part of the National Institutes of Health, announces the release of a video titled, “International Cancer Proteogenome Consortium (ICPC)”. Launched during the 2018 Human Proteome Organization World Congress...</summary>
+  </article>
+  <article>
+    <url>https://proteomics.cancer.gov/news_and_announcements/precisionfda-nci-cptac-multi-omics-challenge-open-submissions</url>
+    <date>&lt;span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-09-24T00:00:00-04:00"&gt;September 24, 2018&lt;/span&gt;</date>
+    <title>The precisionFDA NCI-CPTAC Multi-Omics Challenge is Open for Submissions</title>
+    <summary>&lt;p&gt;The &lt;a href="https://www.cancer.gov/news-events/cancer-currents-blog/2018/sharpless-nci-fda-collaboration"&gt;National Cancer Institute&lt;/a&gt; in partnership with the Food and Drug Administration is pleased to announce the launch of the precisionFDA NCI-CPTAC Multi-Omics Challenge. The aim of this...</summary>
+  </article>
+  <article>
+    <url>https://proteomics.cancer.gov/news_and_announcements/cptac-and-fda-discuss-upcoming-computational-challenge-journal-nature</url>
+    <date>&lt;span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-09-07T00:00:00-04:00"&gt;September 7, 2018&lt;/span&gt;</date>
+    <title>CPTAC and FDA Discuss Upcoming Computational Challenge in the Journal Nature Medicine</title>
+    <summary>&lt;p&gt;Multidimensional multi-omics datasets from &lt;a href="https://cancergenome.nih.gov/"&gt;The Cancer Genome Atlas (TCGA)&lt;/a&gt;, the &lt;a href="https://proteomics.cancer.gov/programs/cptac"&gt;Clinical Proteomic Tumor Analysis Consortium (CPTAC)&lt;/a&gt;, and similar initiatives are becoming a powerful approach to...</summary>
+  </article>
+  <article>
+    <url>https://proteomics.cancer.gov/news_and_announcements/cptac-evaluates-seer-repository-tissues-resource-population-based-cancer</url>
+    <date>&lt;span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-08-23T00:00:00-04:00"&gt;August 23, 2018&lt;/span&gt;</date>
+    <title>CPTAC Evaluates SEER Repository Tissues as a Resource for Population-Based Cancer Proteomic Studies</title>
+    <summary>&lt;p&gt;Next-generation mass spectrometry (NGMS) has become a powerful tool for protein identification and quantification from prospectively collected fresh frozen or optimal cutting temperature embedded specimens. However, limitations due to supply, accessibility, and delay of clinical information and...</summary>
+  </article>
+  <article>
+    <url>https://proteomics.cancer.gov/news_and_announcements/get-ready-join-precisionfda-nci-cptac-multi-omics-challenge</url>
+    <date>&lt;span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-08-08T00:00:00-04:00"&gt;August 8, 2018&lt;/span&gt;</date>
+    <title>Get Ready to Join the precisionFDA NCI-CPTAC Multi-Omics Challenge</title>
+    <summary>&lt;p&gt;In biomedical research, sample mislabeling or incorrect annotation has been a long-standing problem that contributes to irreproducible results and invalid conclusions. These problems are particularly prevalent in large scale multi-omics studies where human errors could arise during sample...</summary>
+  </article>
+  <article>
+    <url>https://proteomics.cancer.gov/news_and_announcements/cptac-optimizes-proteomic-workflow-cancer-research</url>
+    <date>&lt;span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-07-19T00:00:00-04:00"&gt;July 19, 2018&lt;/span&gt;</date>
+    <title>CPTAC Optimizes Proteomic Workflow for Cancer Research</title>
+    <summary>&lt;p&gt;In recent years, proteomic technologies have emerged as invaluable tools in cancer research. Next-generation mass spectrometry (NGMS) is being used to study cancer biology, while providing the cancer research community with a growing body of biological knowledge that may lead to more effective...</summary>
+  </article>
+  <article>
+    <url>https://proteomics.cancer.gov/news_and_announcements/agarwal-laboratory-demonstrates-potential-therapeutic-strategy-acute-myeloid</url>
+    <date>&lt;span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-07-09T00:00:00-04:00"&gt;July 9, 2018&lt;/span&gt;</date>
+    <title>Agarwal Laboratory Demonstrates a Potential Therapeutic Strategy for Acute Myeloid Leukemia</title>
+    <summary>&lt;p&gt;&lt;a href="https://www.cancer.gov/types/leukemia/patient/adult-aml-treatment-pdq#section/_1"&gt;Acute myeloid leukemia&lt;/a&gt; (AML) is a heterogenous malignancy that stems from the production of abnormal white blood cells, platelets, or red blood cells in the bone marrow. It is estimated that 19,520 new...</summary>
+  </article>
+</nodes>
